@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "kubejs:block/ucac/ucac_controller_other",
+    "east": "kubejs:block/ucac/ucac_controller_other",
+    "north": "kubejs:block/ucac/ucac_controller_face",
+    "particle": "kubejs:block/ucac/ucac_controller_other",
+    "south": "kubejs:block/ucac/ucac_controller_other",
+    "up": "kubejs:block/ucac/ucac_controller_other",
+    "west": "kubejs:block/ucac/ucac_controller_other"
+  }
+}

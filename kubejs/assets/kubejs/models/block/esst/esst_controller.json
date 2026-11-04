@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "kubejs:block/esst/esst_controller_other",
+    "east": "kubejs:block/esst/esst_controller_other",
+    "north": "kubejs:block/esst/esst_controller_face",
+    "particle": "kubejs:block/esst/esst_controller_other",
+    "south": "kubejs:block/esst/esst_controller_other",
+    "up": "kubejs:block/esst/esst_controller_other",
+    "west": "kubejs:block/esst/esst_controller_other"
+  }
+}

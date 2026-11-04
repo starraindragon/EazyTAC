@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "kubejs:block/ades/ades_controller_other",
+    "east": "kubejs:block/ades/ades_controller_other",
+    "north": "kubejs:block/ades/ades_controller_face",
+    "particle": "kubejs:block/ades/ades_controller_other",
+    "south": "kubejs:block/ades/ades_controller_other",
+    "up": "kubejs:block/ades/ades_controller_other",
+    "west": "kubejs:block/ades/ades_controller_other"
+  }
+}

@@ -1,0 +1,15 @@
+StartupEvents.registry('block',event =>{
+    event.create('2x_time_crystal_block')
+    .displayName('2x time crystal block')
+    .hardness(6.0)
+    .resistance(15.0)
+    .requiresTool(true)
+    .tagBlock('mineable/pickaxe')
+    .tagBlock('needs_iron_tool')
+    .soundType('metal')
+    .lightLevel(7)
+    .texture('kubejs:block/time_crystal_block')
+    .item(itemBuilder =>{
+        itemBuilder.glow(true)
+    })
+})

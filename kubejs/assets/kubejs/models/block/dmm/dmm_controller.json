@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "kubejs:block/dmm/dmm_controller_other",
+    "east": "kubejs:block/dmm/dmm_controller_other",
+    "north": "kubejs:block/dmm/dmm_controller_face",
+    "particle": "kubejs:block/dmm/dmm_controller_other",
+    "south": "kubejs:block/dmm/dmm_controller_other",
+    "up": "kubejs:block/dmm/dmm_controller_other",
+    "west": "kubejs:block/dmm/dmm_controller_other"
+  }
+}

@@ -1,0 +1,65 @@
+# NOTICE · 第三方内容归属声明
+
+本整合包《简单工程 EazyTAC》由维护者 **想去星空的星雨** 制作与整理。
+
+除本仓库中由维护者原创的内容（适用 `LICENSE` 与 `LICENSE-CC`）之外，
+整合包收录或引用了大量第三方模组与资源。**本整合包不对这些内容重新授权**，
+它们各自遵循原始作者指定的许可证。
+
+---
+
+## 一、模组（Mods）
+
+以下为整合包中使用的核心第三方模组及其归属（非完整列表，完整清单见整合包 `mods/` 目录）：
+
+| 模组 | 作者 / 团队 | 说明 |
+|---|---|---|
+| Applied Energistics 2（应用能源 2） | AlgorithmX2 及 AE2 团队 | MIT |
+| Mekanism（通用机械） | aidancbrady 及 Mekanism 团队 | MIT |
+| Draconic Evolution（龙之进化） | Brandon3055 | 自定义许可，禁止未经授权再分发 |
+| Re-Avaritia（无尽贪婪：重生） | Re-Avaritia 团队 | 遵循模组原许可 |
+| Mystical Agriculture（神秘农业） | BlakeBr0 | MIT |
+| Multiblocked2 / LowDragLib2 | Kila / LDLib 团队 | LGPL-3.0 |
+| Powah! | owmii | MIT |
+| FTB Quests / FTB Library / FTB Chunks | FTB 团队 | 各自许可 |
+| KubeJS / Rhino | LatvianMods | LGPL-3.0 |
+| Apotheosis（神化） | Shadows of Fire | 遵循模组原许可 |
+| AllTheModium / AllTheOres | ATM 团队 | 遵循模组原许可 |
+| useless_mod（无用之物） | sorrowmist | 遵循模组原许可 |
+
+> 各模组的具体条款请参见其 CurseForge / Modrinth 页面或模组 jar 内的 LICENSE 文件。
+
+---
+
+## 二、贴图与美术资源
+
+本整合包中部分多方块机器与物品的贴图引用了以下作品：
+
+### 1. ModularMachinery
+
+- 作者：**HellFirePvP**
+- 许可证：**GNU GPL-3.0**
+- 用途：多方块组件（控制器 / 端口）的贴图引用
+- 要求：使用需保留其版权声明并遵守 GPL-3.0 开源条款
+
+### 2. AE2 Crystal Science（AE2 水晶科技）
+
+- 作者：**ExtremelyFrozen / MHanHanBing**（2026）
+- 许可证：**CC BY-NC-SA 3.0**（署名-非商业-相同方式共享）
+- 用途：电路蚀刻器等物品的贴图引用
+- AE2 原始贴图版权：**Ridanisaurus Rid、AlgorithmX2 et al**
+- 要求：非商业用途；若修改并分发，须以 CC BY-NC-SA 3.0 或兼容许可发布
+
+---
+
+## 三、其他
+
+1. Minecraft 是 Mojang Studios 的商标，本项目与 Mojang 及 Microsoft 无关联。
+2. 若您是上述内容的权利持有人，认为本整合包的使用方式超出授权范围，
+   请联系维护者，我们会在核实后调整或移除相关内容。
+3. 本文件不构成对任何第三方内容的再授权，仅作归属声明之用。
+
+---
+
+维护者：**想去星空的星雨**
+最后更新：2026-11-04
