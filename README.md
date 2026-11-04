@@ -65,8 +65,7 @@
 | 1.1 | 2026/10/31 12:10 | 可下载 | 大量优化模组、JVM 参数、富集碳配方修复 |
 | 1.0 | 2026/10/25 00:53 | **已下架** | 首个内测版本，不再提供下载 |
 
-完整的更新日志见 [eazytac-log.astaxqxkdxy.org](eazytac-log.astaxqxkdxy.org
-)。
+完整的更新日志见 [eazytac-log.astaxqxkdxy.org](https://eazytac-log.astaxqxkdxy.org)。
 
 ## 常见问题
 
