@@ -4,7 +4,7 @@
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-3fb950?style=flat-square)](https://www.minecraft.net/)
 [![NeoForge](https://img.shields.io/badge/NeoForge-21.1.248-d29922?style=flat-square)](https://neoforged.net/)
-[![Version](https://img.shields.io/badge/Version-1.2-38d39f?style=flat-square)]()
+[![Version](https://img.shields.io/badge/Version-1.3-38d39f?style=flat-square)]()
 [![Java](https://img.shields.io/badge/Java-21+-2f81f7?style=flat-square)]()
 
 ---
@@ -34,10 +34,15 @@
 
 ## 安装
 
+> 📦 **请务必先解压！** 自 **1.1** 版本起，压缩包内附带 `JAVA虚拟机参数.txt`，
+> 解压后按该文件说明设置启动参数；**不要直接在压缩包里启动**，否则会缺少模组与配置。
+
 1. 下载最新版本的压缩包（`简单工程EazyTAC1.2.zip`）；
-2. 用 HMCL / PCL 等启动器导入该压缩包；
-3. 选择实例，设置 Java 21 与内存（建议 10G）；
-4. 启动游戏。
+2. **解压**压缩包；
+3. 用 HMCL / PCL 等启动器导入解压后的目录（或把内容放进 `.minecraft/versions/`）；
+4. 打开压缩包内的 `JAVA虚拟机参数.txt`，按说明填写 JVM 参数（内存不足 10G 时删掉参数）；
+5. 选择实例，设置 Java 21 与内存（建议 10G）；
+6. 启动游戏。
 
 > ⚠️ **路径不要包含中文以外的特殊字符**，部分模组的资源路径对大小写和字符敏感。
 
@@ -61,9 +66,13 @@
 
 | 版本 | 上传时间 | 状态 | 说明 |
 |---|---|---|---|
-| **1.2** | 2026/11/01 14:32 | 最新 | 传送优化模组、移除万象合金炉、并发压印模板掉落、连锁替换 |
+| **1.3** | 2026/11/07 10:55 | 最新 | SFM 可视化编辑、维度解离总站配方降级、液态数据流重构、富集配方调整 |
+| 1.2 | 2026/11/01 14:32 | 可下载 | 传送优化模组、移除万象合金炉、并发压印模板掉落、连锁替换 |
 | 1.1 | 2026/10/31 12:10 | 可下载 | 大量优化模组、JVM 参数、富集碳配方修复 |
 | 1.0 | 2026/10/25 00:53 | **已下架** | 首个内测版本，不再提供下载 |
+
+[![下载 1.3](https://img.shields.io/badge/下载-1.3-38d39f?style=for-the-badge)](https://download.eazytac.astaxqxkdxy.org/%E4%BA%B2%EF%BC%81%E8%A7%A3%E5%8E%8B%EF%BC%81%E7%AE%80%E5%8D%95%E5%B7%A5%E7%A8%8B1.3.zip)
+[![下载 1.2](https://img.shields.io/badge/下载-1.2-2bb386?style=for-the-badge)](https://download.eazytac.astaxqxkdxy.org/%E4%BA%B2%EF%BC%81%E8%A7%A3%E5%8E%8B%EF%BC%81%E7%AE%80%E5%8D%95%E5%B7%A5%E7%A8%8B1.2.zip)
 
 完整的更新日志见 [eazytac-log.astaxqxkdxy.org](https://eazytac-log.astaxqxkdxy.org)。
 

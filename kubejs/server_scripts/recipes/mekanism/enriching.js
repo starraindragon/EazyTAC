@@ -4,7 +4,8 @@ ServerEvents.recipes(event =>{
         'mekanism:dust_coal'
     )
 
-    event.recipes.mekanism.enriching(
+    // 第二个配方改为使用粉碎机（Crusher）
+    event.recipes.mekanism.crushing(
         '4x minecraft:red_dye',
         'minecraft:redstone'
     )
