@@ -67,14 +67,16 @@
 
 | 版本 | 上传时间 | 状态 | 说明 |
 |---|---|---|---|
-| 1.4 | 待定 | **待发布** | 建筑之杖与建筑小帮手、龙之心聚变配方、兼容模组 2.1.0 |
-| **1.3** | 2026/11/07 10:55 | 可下载 | SFM 可视化编辑、维度解离总站配方降级、液态数据流重构、富集配方调整 |
+| **1.4** | 2026/11/12 16:05 | 最新 | 建筑之杖与建筑小帮手、龙之心聚变配方、兼容模组 2.1.0 |
+| 1.3 | 2026/11/07 10:55 | 可下载 | SFM 可视化编辑、维度解离总站配方降级、液态数据流重构、富集配方调整 |
 | 1.2 | 2026/11/01 14:32 | 可下载 | 传送优化模组、移除万象合金炉、并发压印模板掉落、连锁替换 |
 | 1.1 | 2026/10/31 12:10 | 可下载 | 大量优化模组、JVM 参数、富集碳配方修复 |
 | 1.0 | 2026/10/25 00:53 | **已下架** | 首个内测版本，不再提供下载 |
 
-[![下载 1.3](https://img.shields.io/badge/下载-1.3-38d39f?style=for-the-badge)](https://download.eazytac.astaxqxkdxy.org/%E4%BA%B2%EF%BC%81%E8%A7%A3%E5%8E%8B%EF%BC%81%E7%AE%80%E5%8D%95%E5%B7%A5%E7%A8%8B1.3.zip)
+[![下载 1.4](https://img.shields.io/badge/下载-1.4-38d39f?style=for-the-badge)](https://download.eazytac.astaxqxkdxy.org/%E4%BA%B2%EF%BC%81%E8%A7%A3%E5%8E%8B%EF%BC%81%E7%AE%80%E5%8D%95%E5%B7%A5%E7%A8%8B1.4.zip)
+[![下载 1.3](https://img.shields.io/badge/下载-1.3-2bb386?style=for-the-badge)](https://download.eazytac.astaxqxkdxy.org/%E4%BA%B2%EF%BC%81%E8%A7%A3%E5%8E%8B%EF%BC%81%E7%AE%80%E5%8D%95%E5%B7%A5%E7%A8%8B1.3.zip)
 [![下载 1.2](https://img.shields.io/badge/下载-1.2-2bb386?style=for-the-badge)](https://download.eazytac.astaxqxkdxy.org/%E4%BA%B2%EF%BC%81%E8%A7%A3%E5%8E%8B%EF%BC%81%E7%AE%80%E5%8D%95%E5%B7%A5%E7%A8%8B1.2.zip)
+[![前往仓库下载 1.1](https://img.shields.io/badge/前往仓库下载-1.1-6e7681?style=for-the-badge)](https://github.com/starraindragon/EazyTAC/releases)
 
 完整的更新日志见 [eazytac-log.astaxqxkdxy.org](https://eazytac-log.astaxqxkdxy.org)。
 
