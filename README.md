@@ -4,7 +4,7 @@
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-3fb950?style=flat-square)](https://www.minecraft.net/)
 [![NeoForge](https://img.shields.io/badge/NeoForge-21.1.248-d29922?style=flat-square)](https://neoforged.net/)
-[![Version](https://img.shields.io/badge/Version-1.3-38d39f?style=flat-square)]()
+[![Version](https://img.shields.io/badge/Version-1.4-38d39f?style=flat-square)]()
 [![Java](https://img.shields.io/badge/Java-21+-2f81f7?style=flat-square)]()
 
 ---
@@ -20,7 +20,8 @@
 - **自研多方块机器**：ADES 控制器、UCAC、万用压缩等，全部基于 Multiblocked2 实现
 - **定制的传送优化模组**：`tp_optimize`，传送前先异步准备目标区块，避免客机传送卡住主机
 - **性能向调校**：已集成 Lithium、Saturn、MoreCulling、Particle Core 等优化模组
-- **配方重构**：无尽催化剂、无用之物锭线、造化垂青之杖等均已重做
+- **建筑辅助**：建筑之杖（Construction Wand）与建筑小帮手（Building Gadgets 2），支持快速连续放置与批量建造
+- **配方重构**：无尽催化剂、无用之物锭线、造化垂青之杖、龙之心聚变等均已重做/新增
 
 ## 环境要求
 
@@ -66,7 +67,8 @@
 
 | 版本 | 上传时间 | 状态 | 说明 |
 |---|---|---|---|
-| **1.3** | 2026/11/07 10:55 | 最新 | SFM 可视化编辑、维度解离总站配方降级、液态数据流重构、富集配方调整 |
+| 1.4 | 待定 | **待发布** | 建筑之杖与建筑小帮手、龙之心聚变配方、兼容模组 2.1.0 |
+| **1.3** | 2026/11/07 10:55 | 可下载 | SFM 可视化编辑、维度解离总站配方降级、液态数据流重构、富集配方调整 |
 | 1.2 | 2026/11/01 14:32 | 可下载 | 传送优化模组、移除万象合金炉、并发压印模板掉落、连锁替换 |
 | 1.1 | 2026/10/31 12:10 | 可下载 | 大量优化模组、JVM 参数、富集碳配方修复 |
 | 1.0 | 2026/10/25 00:53 | **已下架** | 首个内测版本，不再提供下载 |
