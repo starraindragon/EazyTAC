@@ -33,7 +33,7 @@ ServerEvents.recipes(event => {
              common: ['minecraft:diamond_block', 'minecraft:netherite_ingot'] },
         8: { theme: ['minecraft:dragon_head', 'minecraft:echo_shard', 'minecraft:conduit'],
              common: ['minecraft:diamond_block', 'minecraft:netherite_ingot'] },
-        9: { theme: ['minecraft:turtle_helmet', 'minecraft:goat_horn', 'minecraft:rabbit_foot'],
+        9: { theme: ['minecraft:turtle_helmet', 'minecraft:rabbit_foot'],
              common: ['minecraft:diamond_block', 'minecraft:netherite_block'] }
     }
 

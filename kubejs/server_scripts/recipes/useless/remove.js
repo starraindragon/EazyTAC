@@ -19,4 +19,8 @@ ServerEvents.recipes(event =>{
     // 配方转换已在 config/useless_mod-common.toml 里全部关闭（61 个开关），
     // 那 4390 条转换配方不会再进目录，日志里的
     // "Built alloy-furnace recipe catalog: recipes=4390" 会大幅下降。
+    event.remove({output:'useless_mod:teleport_block'})
+    event.remove({output:'useless_mod:teleport_block_2'})
+    event.remove({output:'useless_mod:teleport_block_3'})
+
 })
